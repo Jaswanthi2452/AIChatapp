@@ -1,5 +1,8 @@
 # AI Web App – Text Generator
 
+![Uploading image.png…]()
+
+
 ## Project Overview
 This is simple -to-use web application based on creation of AI texts using the Node.js (Express) and HTML/CSS/JavaScript.  .  
 It allows users to:
