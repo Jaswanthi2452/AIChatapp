@@ -1,6 +1,6 @@
 # AI Web App – Text Generator
 
-![Uploading image.png…]()
+![Screenshot](https://github.com/user-attachments/assets/c59402ca-321d-49ce-bd01-a2737199c31d)
 
 
 ## Project Overview
